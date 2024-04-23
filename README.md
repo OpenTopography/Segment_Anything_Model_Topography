@@ -1,9 +1,7 @@
-# sam_topo
-Segment anything model for topographic data
+# Segment Anything Model for Topography Data (sam_topo)
 
-- easy to costumize: matplotlib-based GUI
+- easy to customize: matplotlib-based GUI
 - Segment everything first and then interactive segmentation for individual masks
-
 
 ## Installation
 
