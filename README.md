@@ -1,4 +1,4 @@
-# Segment Anything Model (SAM) for Topography Data
+# Segment Anything Model for Topography Data (SAM_TOPO)
 
 Segment Anything (SAM) is an image segmentation model developed by Meta AI. It is designed to reduce the need for custom data annotation, training compute, and task-specific modeling expertise.
 
