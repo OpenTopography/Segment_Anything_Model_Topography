@@ -12,7 +12,7 @@ Please follow the instructions to install `segment-anything`: https://github.com
 
 Install `sam_topo`:
 ```
-git clone https://github.com/ZhiangChen/sam_topo.git
+git clone https://github.com/OpenTopography/Segment_Anything_Model_Topography.git
 cd sam_topo
 pip install .
 ```
