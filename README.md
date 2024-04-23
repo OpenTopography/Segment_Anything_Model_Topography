@@ -61,7 +61,17 @@ sam_topo_gui = SAM_Topo_GUI(img_path='../data/data/sample_data/beach_hillshade_g
 
 
 ## Citation
-Chen, Z., Scott, C., Schwarz, M.F., Johnstone, S., Crosby, C.J. and Arrowsmith, R., 2023. Segmenting geologic landforms using zero-shot deep learning and lidar topography. AGU23. 
+
+```
+@article{chen2023segmenting,
+  title={Segmenting geologic landforms using zero-shot deep learning and lidar topography},
+  author={Chen, Zhiang and Scott, Chelsea and Schwarz, Madeline F and Johnstone, Sam and Crosby, Christopher J and Arrowsmith, Ramon},
+  journal={AGU23},
+  year={2023},
+  publisher={AGU}
+}
+```
+
 https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1352775
 
 ## Meta AI Segment Anything
